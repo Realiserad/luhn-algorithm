@@ -1,9 +1,0 @@
-C:\Users\Administrator\Programming\Personnummerkontroll\Personnummerkontroll\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Administrator\Programming\Personnummerkontroll\Personnummerkontroll\obj\x86\Debug\Personnummerkontroll.Form1.resources
-C:\Users\Administrator\Programming\Personnummerkontroll\Personnummerkontroll\obj\x86\Debug\Personnummerkontroll.Properties.Resources.resources
-C:\Users\Administrator\Programming\Personnummerkontroll\Personnummerkontroll\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\Administrator\Programming\Personnummerkontroll\Personnummerkontroll\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\Administrator\Programming\Personnummerkontroll\Personnummerkontroll\bin\Debug\Personnummerkontroll.exe
-C:\Users\Administrator\Programming\Personnummerkontroll\Personnummerkontroll\bin\Debug\Personnummerkontroll.pdb
-C:\Users\Administrator\Programming\Personnummerkontroll\Personnummerkontroll\obj\x86\Debug\Personnummerkontroll.exe
-C:\Users\Administrator\Programming\Personnummerkontroll\Personnummerkontroll\obj\x86\Debug\Personnummerkontroll.pdb
