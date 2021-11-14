@@ -1,9 +1,0 @@
-C:\Users\Administrator\AppData\Local\Temporary Projects\Miniräknare\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Administrator\AppData\Local\Temporary Projects\Miniräknare\obj\x86\Debug\Miniräknare.Form1.resources
-C:\Users\Administrator\AppData\Local\Temporary Projects\Miniräknare\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\Administrator\AppData\Local\Temporary Projects\Miniräknare\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\Administrator\AppData\Local\Temporary Projects\Miniräknare\bin\Debug\Generera personnummer.exe
-C:\Users\Administrator\AppData\Local\Temporary Projects\Miniräknare\bin\Debug\Generera personnummer.pdb
-C:\Users\Administrator\AppData\Local\Temporary Projects\Miniräknare\obj\x86\Debug\generera_personnummer.Properties.Resources.resources
-C:\Users\Administrator\AppData\Local\Temporary Projects\Miniräknare\obj\x86\Debug\Generera personnummer.exe
-C:\Users\Administrator\AppData\Local\Temporary Projects\Miniräknare\obj\x86\Debug\Generera personnummer.pdb
